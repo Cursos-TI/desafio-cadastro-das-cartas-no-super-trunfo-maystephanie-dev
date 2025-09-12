@@ -8,7 +8,6 @@
 // NIVEL NOVATO E INTERMEDIARIO - MAYARA
 //duvida: existe algum codigo que permita que transforme, por exemplo, o 699.28 em 699.280.000.000?
 
-
 int main() {
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
